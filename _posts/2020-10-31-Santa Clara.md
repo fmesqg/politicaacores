@@ -1,9 +1,7 @@
 ---
-layout: post
-author: jill
+author: Francisco
 ---
-A banana is an edible fruit – botanically a berry – produced by several kinds
-of large herbaceous flowering plants in the genus Musa.
+Na região mais pobre do país, o governo regional dá 1 milhão por ano ao Santa Clara. O maior acionista \(47.6%\) é privado e comprou a sua parte por 238 mil euros.
 
 In some countries, bananas used for cooking may be called "plantains",
 distinguishing them from dessert bananas. The fruit is variable in size, color,

@@ -7,8 +7,8 @@
 	],
 	"sourcesContent": [
 		"@import \"main\";\n",
-		".current {\n  color: green;\n}\n"
+		" p,body {\n  color:  \t#f0e5d4;\n  background-color: #253564;\n  font-family: Courier, monospace;\n}\n/* unvisited link */\na:link {\n  color: green;\n}\n\n/* visited link */\na:visited {\n  color: green;\n}\n"
 	],
 	"names": [],
-	"mappings": "ACAA,AAAA,QAAQ,CAAC,EACP,KAAK,EAAE,KAAK,GACb"
+	"mappings": "ACAC,AAAA,CAAC,EAAC,IAAI,CAAC,EACN,KAAK,EAAI,OAAO,EAChB,gBAAgB,EAAE,OAAO,EACzB,WAAW,EAAE,kBAAkB,GAChC;;AACD,oBAAoB;AACpB,AAAA,CAAC,CAAC,IAAI,CAAC,EACL,KAAK,EAAE,KAAK,GACb;;AAED,kBAAkB;AAClB,AAAA,CAAC,CAAC,OAAO,CAAC,EACR,KAAK,EAAE,KAAK,GACb"
 }
